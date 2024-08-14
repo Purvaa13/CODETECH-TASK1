@@ -5,9 +5,6 @@ ID : CT08DS5424
 Domain: Web development
 Durtion: July to August 2024
 
-
-# Weather App
-[Live Preview](https://get-weather-detail.netlify.app)
 ## Introduction
 Weather App is a simple web application designed to provide users with real-time weather information for a given location. It utilizes HTML, CSS, and JavaScript to create an interactive and visually appealing interface. The app fetches weather data from the WeatherAPI, which offers reliable and accurate weather forecasts.
 
@@ -43,3 +40,6 @@ Weather App is a simple web application designed to provide users with real-time
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or report bugs
 
 Thank you for using the Weather App! We hope you find it useful and informative.
+![Screenshot WEATHER APP](https://github.com/user-attachments/assets/de538b12-16b3-4d37-831d-a235cd2a0bec)
+
+
